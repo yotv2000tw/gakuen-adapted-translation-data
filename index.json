@@ -1,4 +1,5 @@
 {
+    "adv_tower-001.txt": "./data/adv/tower-001.csv",
     "adv_csprt-3-0019_01.txt": "./data/adv/csprt-3-0019/01.csv",
     "adv_csprt-3-0019_03.txt": "./data/adv/csprt-3-0019/03.csv",
     "adv_csprt-3-0019_02.txt": "./data/adv/csprt-3-0019/02.csv",
@@ -61,6 +62,7 @@
     "adv_csprt-3-0003_01.txt": "./data/adv/csprt-3-0003/01.csv",
     "adv_csprt-3-0003_03.txt": "./data/adv/csprt-3-0003/03.csv",
     "adv_csprt-3-0003_02.txt": "./data/adv/csprt-3-0003/02.csv",
+    "adv_cidol-hrnm-3-000_01.txt": "./data/adv/cidol-hrnm-3-000/01.csv",
     "adv_cidol-shro-3-000_01.txt": "./data/adv/cidol-shro-3-000/01.csv",
     "adv_cidol-shro-3-000_03.txt": "./data/adv/cidol-shro-3-000/03.csv",
     "adv_cidol-shro-3-000_02.txt": "./data/adv/cidol-shro-3-000/02.csv",
