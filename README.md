@@ -1,15 +1,17 @@
-# 仓库说明
+# 倉庫說明
 
-本仓库存放csv格式的学园偶像大师翻译文本。翻译前文件可在 [gakuen-adapted-stories](https://github.com/yotv2000tw/gakuen-adapted-stories) 找到。
+本倉庫存放 csv 格式的學園偶像大師翻譯文本。翻譯前文件可在 [gakuen-adapted-stories](https://github.com/yotv2000tw/gakuen-adapted-stories) 找到。
 
-**如果我想提交译文，我该怎么做**： 阅读 [gakuen-adapted-stories](https://github.com/yotv2000tw/gakuen-adapted-stories) 的readme，安装浏览器用户脚本后，在网页中翻译并提交。
+**如果我想提交譯文，我該怎麼做**
 
-## 仓库提交规范
+閱讀 [gakuen-adapted-stories](https://github.com/yotv2000tw/gakuen-adapted-stories) 的readme，安裝瀏覽器用戶腳本後，在網頁中翻譯後下載（若提交的話會提交到其他地方）。
 
-### 新翻译文件
+## 倉庫提交規範
 
-将翻译后文件放于 ./tmp 中，提交PR。之后`tmp`中的文件会被自动移动到data文件夹的合适位置。
+### 新翻譯文件
 
-### 更新翻译文件
+將翻譯後文件放於 `./tmp` 中，提交PR。之後 `./tmp` 中的文件會被自動移動到 `data` 文件夾的合適位置。
 
-直接修改 `data/` 中的翻译文件，不要更改文件名或位置
+### 更新翻譯文件
+
+直接修改 `data/` 中的翻譯文件，不要更改檔案名或位置
