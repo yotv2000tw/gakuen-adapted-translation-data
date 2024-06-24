@@ -1,3 +1,6 @@
 {
-    "adv_tower-001.txt": "./data/adv/tower-001.csv"
+    "adv_tower-001.txt": "./data/adv/tower-001.csv",
+    "adv_dear_fktn_002.txt": "./data/adv/dear/fktn/002.csv",
+    "adv_dear_fktn_003.txt": "./data/adv/dear/fktn/003.csv",
+    "adv_dear_fktn_001.txt": "./data/adv/dear/fktn/001.csv"
 }
